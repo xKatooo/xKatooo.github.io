@@ -1,0 +1,10 @@
+.margin-50{
+    margin: 50px;
+}
+.card{
+    margin-left: 20px;    
+}
+.imagen{
+    max-width: 50%;
+    clip-path: circle(50% at 50% 50%);
+}
